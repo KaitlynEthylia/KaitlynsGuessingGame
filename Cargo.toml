@@ -5,7 +5,7 @@ description = "A fairly shoddy guessing game"
 authors = ["Kaitlyn~Ethylia <kaitlyyn.ethylia@proton.me>"]
 edition = "2021"
 repository = "https://github.com/KaitlynEthylia/KaitlynsGuessingGame"
-license = "The Unlicense"
+license = "Unlicense"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
